@@ -1,6 +1,6 @@
 auth:
-    user: 'ReefCoinTipBot'
-    password: 'Qwerty123!'
+    user: ''
+    password: ''
 
 scan:
     batch_limit: 1000
